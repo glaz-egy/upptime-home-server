@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alice.3s-labo.com.ico",
     "slug": "alice-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 16,
-    "timeDay": 16,
-    "timeWeek": 16,
-    "timeMonth": 16,
-    "timeYear": 16,
-    "dailyMinutesDown": {}
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
+    "dailyMinutesDown": {
+      "2026-05-08": 13
+    }
   },
   {
     "name": "Grafana",
@@ -23,16 +25,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.3s-labo.com.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.52%",
+    "uptimeDay": "1.52%",
+    "uptimeWeek": "1.52%",
+    "uptimeMonth": "1.52%",
+    "uptimeYear": "1.52%",
     "time": 16,
     "timeDay": 16,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 16,
+    "dailyMinutesDown": {
+      "2026-05-08": 13
+    }
+  },
+  {
+    "name": "HomePage",
+    "url": "https://www.3s-labo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.3s-labo.com.ico",
+    "slug": "home-page",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 17,
+    "timeDay": 17,
+    "timeWeek": 17,
+    "timeMonth": 17,
+    "timeYear": 17,
     "dailyMinutesDown": {}
   }
 ]
