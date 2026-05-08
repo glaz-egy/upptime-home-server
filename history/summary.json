@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alice.3s-labo.com.ico",
     "slug": "alice-bot",
     "status": "down",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
-    "time": 18,
-    "timeDay": 18,
-    "timeWeek": 18,
-    "timeMonth": 18,
-    "timeYear": 18,
+    "uptime": "0.68%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "0.68%",
+    "uptimeMonth": "0.68%",
+    "uptimeYear": "0.68%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
     "dailyMinutesDown": {
-      "2026-05-08": 26
+      "2026-05-08": 30
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.3s-labo.com.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "0.79%",
-    "uptimeDay": "0.79%",
-    "uptimeWeek": "0.79%",
-    "uptimeMonth": "0.79%",
-    "uptimeYear": "0.79%",
+    "uptime": "0.68%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "0.68%",
+    "uptimeMonth": "0.68%",
+    "uptimeYear": "0.68%",
     "time": 17,
     "timeDay": 17,
     "timeWeek": 17,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2026-05-08": 26
+      "2026-05-08": 30
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.3s-labo.com.ico",
     "slug": "home-page",
     "status": "down",
-    "uptime": "1.40%",
-    "uptimeDay": "1.40%",
-    "uptimeWeek": "1.40%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "1.40%",
+    "uptime": "1.16%",
+    "uptimeDay": "1.16%",
+    "uptimeWeek": "1.16%",
+    "uptimeMonth": "1.16%",
+    "uptimeYear": "1.16%",
     "time": 16,
     "timeDay": 16,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2026-05-08": 13
+      "2026-05-08": 17
     }
   }
 ]
