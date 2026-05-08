@@ -5,10 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Alice-Bot
     url: https://alice.3s-labo.com
+    headers:
+      - "User-Agent: uptime-checker/v1.0"
   - name: Grafana
     url: https://grafana.3s-labo.com
+    headers:
+      - "User-Agent: uptime-checker/v1.0"
   - name: HomePage
     url: https://www.3s-labo.com
+    headers:
+      - "User-Agent: uptime-checker/v1.0"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
