@@ -4,19 +4,19 @@
     "url": "https://alice.3s-labo.com",
     "icon": "https://icons.duckduckgo.com/ip3/alice.3s-labo.com.ico",
     "slug": "alice-bot",
-    "status": "down",
-    "uptime": "0.68%",
-    "uptimeDay": "0.68%",
-    "uptimeWeek": "0.68%",
-    "uptimeMonth": "0.68%",
-    "uptimeYear": "0.68%",
-    "time": 19,
-    "timeDay": 19,
-    "timeWeek": 19,
-    "timeMonth": 19,
-    "timeYear": 19,
+    "status": "up",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2026-05-08": 30
+      "2026-05-08": 40
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://grafana.3s-labo.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.3s-labo.com.ico",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "0.68%",
-    "uptimeDay": "0.68%",
-    "uptimeWeek": "0.68%",
-    "uptimeMonth": "0.68%",
-    "uptimeYear": "0.68%",
-    "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 17,
-    "timeYear": 17,
+    "status": "up",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2026-05-08": 30
+      "2026-05-08": 40
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.3s-labo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.3s-labo.com.ico",
     "slug": "home-page",
-    "status": "down",
-    "uptime": "1.16%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "1.16%",
-    "uptimeMonth": "1.16%",
-    "uptimeYear": "1.16%",
-    "time": 16,
-    "timeDay": 16,
-    "timeWeek": 16,
-    "timeMonth": 16,
-    "timeYear": 16,
+    "status": "up",
+    "uptime": "0.86%",
+    "uptimeDay": "0.86%",
+    "uptimeWeek": "0.86%",
+    "uptimeMonth": "0.86%",
+    "uptimeYear": "0.86%",
+    "time": 287,
+    "timeDay": 287,
+    "timeWeek": 287,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-05-08": 17
+      "2026-05-08": 27
     }
   }
 ]
