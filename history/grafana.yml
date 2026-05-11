@@ -1,7 +1,7 @@
 url: https://grafana.3s-labo.com
-status: down
-code: 404
-responseTime: 668
-lastUpdated: 2026-05-11T14:07:55.096Z
+status: up
+code: 200
+responseTime: 863
+lastUpdated: 2026-05-11T16:45:05.798Z
 startTime: 2026-05-08T04:20:35.391Z
 generator: Upptime <https://github.com/upptime/upptime>
