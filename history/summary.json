@@ -4,20 +4,20 @@
     "url": "https://alice.3s-labo.com",
     "icon": "https://icons.duckduckgo.com/ip3/alice.3s-labo.com.ico",
     "slug": "alice-bot",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 6781,
-    "timeDay": 20594,
-    "timeWeek": 6059,
-    "timeMonth": 8583,
-    "timeYear": 6781,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.89%",
+    "time": 6719,
+    "timeDay": 14055,
+    "timeWeek": 5495,
+    "timeMonth": 8352,
+    "timeYear": 6719,
     "dailyMinutesDown": {
       "2026-05-08": 40,
-      "2026-08-01": 0
+      "2026-08-01": 91
     }
   },
   {
