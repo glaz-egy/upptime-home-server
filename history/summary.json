@@ -25,17 +25,17 @@
     "url": "https://grafana.3s-labo.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.3s-labo.com.ico",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
-    "time": 3226,
-    "timeDay": 867,
-    "timeWeek": 801,
-    "timeMonth": 2725,
-    "timeYear": 3226,
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "98.42%",
+    "time": 3211,
+    "timeDay": 979,
+    "timeWeek": 846,
+    "timeMonth": 2679,
+    "timeYear": 3211,
     "dailyMinutesDown": {
       "2026-05-08": 148,
       "2026-05-10": 153,
@@ -45,7 +45,8 @@
       "2026-05-14": 281,
       "2026-05-19": 83,
       "2026-05-20": 354,
-      "2026-05-21": 436
+      "2026-05-21": 436,
+      "2026-08-13": 70
     }
   },
   {
